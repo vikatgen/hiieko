@@ -1,0 +1,29 @@
+<svg id="undraw_Mail_sent_qwwx" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="788.382" height="719" viewBox="0 0 788.382 719">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" y1="1" x2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-opacity="0.122"/>
+      <stop offset="0.551" stop-opacity="0.09"/>
+      <stop offset="1" stop-opacity="0.02"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="14.124" y1="-1.935" x2="14.124" y2="-2.759" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="gray" stop-opacity="0.251"/>
+      <stop offset="0.535" stop-color="gray" stop-opacity="0.122"/>
+      <stop offset="1" stop-color="gray" stop-opacity="0.102"/>
+    </linearGradient>
+  </defs>
+  <path id="Path_117" data-name="Path 117" d="M125,410,0,268,374,0,748,268,621,410Z" fill="#116d3b"/>
+  <path id="Path_118" data-name="Path 118" d="M125,410,0,268,374,0,748,268,621,410Z" fill="#514abf"/>
+  <rect id="Rectangle_52" data-name="Rectangle 52" width="730" height="319" transform="translate(0 286)" fill="#116d3b"/>
+  <rect id="Rectangle_53" data-name="Rectangle 53" width="730" height="319" transform="translate(0 286)" fill="url(#linear-gradient)"/>
+  <path id="Path_119" data-name="Path 119" d="M748,719H0V268L374,494,748,268Z" fill="#116d3b"/>
+  <path id="Path_120" data-name="Path 120" d="M652.582,116.818,573.252,55.99,363.113,330.042,246.4,240.55l-60.829,79.329L341.938,439.6h0l40.1,30.051Z" fill="#3ad29f"/>
+  <path id="Path_121" data-name="Path 121" d="M3.153,166.882.179,168.334l.342-.608-.261.084.366-.271L40.653,96.307l20.461,17.446L78.667,130l-5.04,2.461,5.666,9.994Z" fill="url(#linear-gradient-2)"/>
+  <path id="Path_122" data-name="Path 122" d="M59.087,115.617l16.044,14.876L2.411,166.646l38.7-49.6Z" fill="#116d3b"/>
+  <path id="Path_123" data-name="Path 123" d="M59.087,115.617l16.044,14.876L2.411,166.646l38.7-49.6Z" opacity="0.2"/>
+  <path id="Path_124" data-name="Path 124" d="M40.373,99.66,2.411,166.646l56.676-51.029Z" fill="#116d3b"/>
+  <path id="Path_125" data-name="Path 125" d="M75.6,142.01,2.489,166.16,63.6,120.539Z" fill="#116d3b"/>
+  <path id="Path_126" data-name="Path 126" d="M686.959,38.73,670.942,66.5l117.44,19.123-75.64-52.673Z" fill="#116d3b"/>
+  <path id="Path_127" data-name="Path 127" d="M686.959,38.73,670.942,66.5l117.44,19.123-75.64-52.673Z" opacity="0.2"/>
+  <path id="Path_128" data-name="Path 128" d="M706.247,8.293l82.135,77.329L686.959,38.73Z" fill="#116d3b"/>
+  <path id="Path_129" data-name="Path 129" d="M675.274,82.821l112.788,2.155-105.293-37.4Z" fill="#116d3b"/>
+</svg>
