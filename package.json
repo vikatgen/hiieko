@@ -1,0 +1,23 @@
+{
+  "name": "Hiieko",
+  "version": "1.0.0",
+  "description": "Hiieko - Ehitiste Tehnos�steemid &amp; Automaatika",
+  "author": "Gen Vikat",
+  "private": false,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "build:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "generate:gh-pages": "DEPLOY_ENV=GH_PAGES nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "vue-scrollto": "^2.17.1",
+    "vuelidate": "^0.7.5"
+  },
+  "devDependencies": {
+    "@nuxtjs/tailwindcss": "^1.0.0"
+  }
+}
